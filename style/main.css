@@ -24,10 +24,9 @@ header .container{
 }
 
 header .logo{
-    margin-left: 5px;
-    color: var(--vermelho);
-    font-family: 'Helvetica', Times;
-    font-size: 40px;
+    height: 10%;
+    width: 10%;
+    margin: 10px;
 }
 
 header nav a{
